@@ -1,0 +1,1 @@
+Phobos has some fucked stuff that can harm youre pc so I removed everthing that was unsafe.Don't worry this is 100% safe and if u want u can virus scan the file every type.
